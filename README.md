@@ -11,6 +11,16 @@ Diagram of the proposed image restoration algorithm from atmospheric turbulence
 Illustration of the geometric deformation measurement in images degraded by atmospheric turbulence  
 ![image](https://github.com/whuluojia/ImTurb/blob/main/Table1.jpg)
 
+
+# How to use
+How to run algorithms  
+Add algorithms into your current path  
+Compile optical flow using mex command.  
+Run in main.m
+Please change the input and output path in main.m.
+Enjoy!
+
+
 Data avaliability  
 The Heat Chamber Dataset can be downloaded from: 
 https://drive.google.com/file/d/14iVachB95bCCtke8ONPD9CCH20JO75v2/view?usp=sharing    
