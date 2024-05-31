@@ -1,4 +1,4 @@
-# ImTurb  
+# Deformation-aware image restoration from atmospheric turbulence based on quasiconformal geometry and pulse-coupled neural network 
 Implementation of the paper: Deformation-aware image restoration from atmospheric turbulence based on quasiconformal geometry and pulse-coupled neural network 
 
 ![demostration of experimental results](https://github.com/whuluojia/ImTurb/blob/main/Door__.gif)
